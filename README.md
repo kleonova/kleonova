@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kleonova
-- 👀 I’m interested in JS, VUE, Angular, Java.
+- 👀 I’m interested in JS, VUE, React, PHP (Laravel), Java.
 - 🌱 I’m currently learning VUE and UI.
 
 <!--
