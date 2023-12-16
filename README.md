@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kleonova
 - 👀 I’m interested in JS, VUE, React, PHP (Laravel), Java.
-- 🌱 I’m currently learning VUE and UI.
+- 🌱 I’m currently learning Java.
 
 <!--
 - 💞️ I’m looking to collaborate on ...
