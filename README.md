@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kleonova
-- 👀 I’m interested in Java, JS, VUE, React.
+- 👀 I’m interested in Kotlin, Java, JS, VUE, React.
 
 <!--
 - 🌱 I’m currently learning Java.
